@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="loop">
+  <description>PHP CodeSniffer configuration</description>
+
+  <file>src/</file>
+
+  <arg value="s"/>
+
+  <rule ref="Generic.PHP.Syntax"/>
+</ruleset>
