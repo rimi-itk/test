@@ -3,4 +3,4 @@
 function f() {
   }
 
-f() 
+f() 7
