@@ -1,6 +1,6 @@
 <?php
 
-function f() {
+function f() { h
   }
 
-f() 
+f();
